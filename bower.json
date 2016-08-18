@@ -1,0 +1,17 @@
+{
+    "name": "bentham-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ben Weiner"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/bentham-bower.git"
+    },
+    "description": "Bentham font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
